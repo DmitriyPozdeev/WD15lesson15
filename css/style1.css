@@ -1,0 +1,26 @@
+.container {
+ display: none;
+}
+
+#blocking {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.popup {
+ display: block;
+ width: 50%;
+ border-radius: 5px;
+ padding: 15px;
+ text-align: center;
+ background-color: #8da39a;
+}
+
+.btn {
+ width: 20%;
+ margin-right: 20px;
+ margin-top: 15px;
+ height: 35px;
+}
+

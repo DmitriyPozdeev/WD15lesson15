@@ -1,0 +1,15 @@
+#popup {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.popup__text {
+ 
+ width: 50%;
+ border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    background-color: #a5b8b0;
+    
+}
+
